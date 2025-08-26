@@ -1,0 +1,40 @@
+s2ts_pipeline/
+├── main.py
+├── config.py
+├── settings.json
+├── engines.json
+├── setup_wizard.py
+├── requirements.txt
+├── utils/
+│   ├── __init__.py
+│   ├── state_manager.py
+│   ├── resource_monitor.py
+│   ├── progress_tracker.py
+│   ├── helpers.py
+│   ├── batch_processor.py
+│   ├── error_handler.py
+│   ├── logger.py
+│   ├── performance_monitor.py
+│   ├── config_manager.py
+│   ├── gui_automation_enhanced.py
+│   ├── project_manager.py
+│   ├── quality_assurance.py
+│   └── documentation.py
+├── modules/
+│   ├── __init__.py
+│   ├── asr.py
+│   ├── text_cleaner.py
+│   ├── translator.py
+│   └── tts.py
+├── data/
+│   ├── Reference-Txt-Aud/
+│   │   ├── reference_text.txt
+│   │   └── reference_audio.wav
+│   ├── projects/
+│   └── incoming_audio/
+├── prompts/
+│   ├── corrector.txt
+│   └── translator.txt
+├── logs/
+└── documentation/
+    └── context_help.md
