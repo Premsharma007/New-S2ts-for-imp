@@ -1,0 +1,14 @@
+{
+    "engines": {
+        "gemini": {
+            "url": "https://gemini.google.com/",
+            "login_required": false,
+            "copy_btn_coords": [1700, 950]
+        },
+        "chatgpt": {
+            "url": "https://chat.openai.com/",
+            "login_required": true,
+            "copy_btn_coords": [1650, 920]
+        }
+    }
+}
